@@ -1,7 +1,7 @@
 # Loan approval prediction
 
 
-# Aim: to develop a predictive model for loan approval
+#Aim: to develop a predictive model for loan approval
 
 
 
